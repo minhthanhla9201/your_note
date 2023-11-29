@@ -1,2 +1,2 @@
-1.0.7
+1.0.8
 https://github.com/minhthanhla9201/your_note/raw/main/yoursecretnotes.apk
